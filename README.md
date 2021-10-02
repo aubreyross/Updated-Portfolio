@@ -8,10 +8,9 @@ This is my updated professional portfolio. As class progresses and new programmi
 1.	Download files from repository, open index.html within that folder.
 ***
 
-***
 ### Links
-* Deployed website:
-* Link to code:
+* Link to code: https://github.com/aubreyross/Updated-Portfolio
+* Link to deployed website: https://aubreyross.github.io/Updated-Portfolio/
 ***
 
 ### Resources and References
